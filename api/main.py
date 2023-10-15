@@ -31,6 +31,6 @@ imbwaa = np.flip(bw4, axis=0)
 
 # Display the cropped image
 cv2.imshow('Cropped Image', cropped)
-
+cv2.imshow('no_change',cropped)
 
 
